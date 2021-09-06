@@ -1,1 +1,3 @@
-WebApp creada con [Streamlit](www.bdiconsultora.com)
+WebApp creada con Streamlit y hosteada en heroku.
+
+https://calculadora-retiro.herokuapp.com
