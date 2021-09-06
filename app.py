@@ -4,8 +4,6 @@ import random
 import statistics as stat
 import numpy as np
 
-st.set_page_config(page_title='Calculadora de retiro - BDI Consultora de inversiones')
-
 hide_streamlit_style = """
 <style>
 #MainMenu {visibility: hidden;}
