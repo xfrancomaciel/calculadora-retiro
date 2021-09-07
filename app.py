@@ -19,7 +19,7 @@ st.write("Creado por [BDI Consultora de inversiones](https://www.bdiconsultora.c
 
 ## Sidebar
 
-st.sidebar.image('https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bbbc94f3-618e-47a5-80a4-92a60e08da90/marcab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210906%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210906T053149Z&X-Amz-Expires=86400&X-Amz-Signature=88b5526dcb49f7d825cd286247ff0b9f4de7f3ad2c8f167cfd4a2baddfca5b46&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"marcab.png"', use_column_width='auto')
+st.sidebar.image('https://bdiconsultora.com/wp-content/uploads/2021/09/marcab.png')
 st.sidebar.markdown('---')
 
 years = st.sidebar.slider('Edad actual / Edad de retiro', value=[30,65], min_value=20, max_value=100)
