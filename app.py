@@ -15,8 +15,8 @@ footer {visibility: hidden;}
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 
 st.title('Calculadora de retiro')
-st.write("Creado por [BDI Consultora de inversiones](https://www.bdiconsultora.com)")
-
+st.write("Creado por [Franco Maciel](https://www.linkedin.com/in/macielfranco/) para [BDI Consultora de inversiones](https://www.bdiconsultora.com)")
+      
 ## Sidebar
 
 st.sidebar.image('https://bdiconsultora.com/wp-content/uploads/2021/09/marcab.png')
